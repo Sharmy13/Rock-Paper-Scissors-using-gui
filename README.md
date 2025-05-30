@@ -17,9 +17,9 @@ A simple and fun **Rock-Paper-Scissors** game with a graphical user interface (G
 
 ### 2. Steps
 1. Clone or download this repository.
-2. Open `rock_paper_scissors.py` in VS Code or any editor.
+2. Open `rockpaperscissors.py` in VS Code or any editor.
 3. Run the file using:
 
 ```bash
-python rock_paper_scissors.py
+python rockpaperscissors.py
 
